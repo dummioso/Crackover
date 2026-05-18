@@ -7,7 +7,7 @@ System Settings > Privacy & Security > Full Disk Access(or search "Full Disk Acc
 uh
 open the terminal (cmd + space, type in terminal, and press the one that literally says "Terminal")
 
-then just run `curl -fsSL https://raw.githubusercontent.com/totallynotinteresting/crossover/main/patch.sh | bash`
+then just run `curl -fsSL https://raw.githubusercontent.com/dummioso/crackover/main/patch.sh | bash`
 
 then open /Applications/CrossOver.app, should all be good, i hope :p
 
@@ -25,8 +25,4 @@ this project is licensed under the [totally not interesting license](LICENSE). b
 
 [p.s this is most definitely a crossover crack, and probably the best one out there atm]: # 
 
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=totallynotinteresting/crossover&type=date&legend=top-left)](https://www.star-history.com/#totallynotinteresting/crossover&type=date&legend=top-left)
+if you read the above then you should know but if you dont then this is a mirror of the original
